@@ -8,7 +8,7 @@ Alacsony fordulatszámon: A szelepeket kisebb bütykök mozgatják. Ez csendeseb
 
 Magas fordulatszámon: Amikor a motor eléri a meghatározott fordulatszámot, a motorolaj nyomása aktiválja a VTEC mechanizmust. Ekkor a szelepek vezérlését egy nagyobb, agresszívabb bütyök veszi át, ami több levegőt és üzemanyagot enged a hengerekbe, így hirtelen megnő a teljesítmény.
 
-A szimuláció során az egyszerűség kedvéért egy szekvencilis váltó mechanikát alkalmazunk bár esetünkben kuplung nélkül.
+A szimuláció során az egyszerűség kedvéért egy szekvenciális váltóhoz hasonló mechanikát alkalmazunk esetünkben kuplung nélkül.
 
 # A projectet itt próbálhatjuk ki:
 

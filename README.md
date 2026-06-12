@@ -1,6 +1,6 @@
 # A Project egy Honda VTEC (Variable Valve Timing and Lift Electronic Control) technológiával szerelt motort szimulál.
 
-# Hogyan is működik a VTEC? 
+# Hogy is működik a VTEC? 
 
 A rendszer alapvetően két (vagy több) különböző szelepvezérlési profilt alkalmaz a motorban:
 
